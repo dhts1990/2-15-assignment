@@ -18,3 +18,5 @@ To allow an EC2 instance to retrieve secrets from AWS Secrets Manager:
         }
     ]
 }
+
+
